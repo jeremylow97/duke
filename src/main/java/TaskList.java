@@ -14,16 +14,7 @@ public class TaskList {
         this.tasks = tasks;
     }
 
-<<<<<<< HEAD
 
-=======
-    public TaskList() {
-    }
-
-    public void addTask(Task task) {
-        tasks.add(task);
-    }
->>>>>>> A-CodingStandard
 
     /**
      * Check if there is any tasks
