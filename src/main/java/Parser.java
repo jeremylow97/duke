@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 public class Parser {
@@ -9,6 +10,10 @@ public class Parser {
      * @param ui current instance of ui so that ui can interact with user
      * @param tasks the tasks available in current Duke program
      */
+=======
+public class Parser {
+
+>>>>>>> A-CodingStandard
     public void parse(String input, Ui ui, TaskList tasks) {
         if (input.equals("list")) {
             ui.printList();
@@ -73,11 +78,6 @@ public class Parser {
                 }
             }
         }
-
-
-
-
-
 
     }
 
